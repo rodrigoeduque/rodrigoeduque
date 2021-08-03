@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**rodrigoeduque/rodrigoeduque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Bom dia 🌞 / Boa Tarde 🌄 / Boa noite 🌃
+### Meu nome é Rodrigo Eustáquio Duque
+___
 
-Here are some ideas to get you started:
+ - [x] 🏎 `Em transição de carreira`
+ - [x] 🔭 `Atualmente trabalhando como Java Developer Jr` 🍊
+ - [x]  📖 `Estudando Java, Kotlin, Familia Spring`
+ - [x] 💬 `Meu contato : rodrigoeduque@hotmail.com`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+____
+<div align=left>
+<div>
+    <img align=left height="200"  src="https://blog.bsource.com.br/assets/img/Tutorial.gif">
+</div>
+  <a href="https://github.com/rodrigoeduque">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rodrigoeduque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoeduque&langs_count=16&theme=dark"/>
+</div>
+
+_______
+
+
