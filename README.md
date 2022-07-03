@@ -3,8 +3,8 @@
 ### Meu nome é Rodrigo Eustáquio Duque
 ___
  - [x] 🏎 `Em transição de carreira`
- - [x] 🔭 `Atualmente trabalhando como Java Developer Jr` 🍊
- - [x]  📖 `Estudando Java, Kotlin, Familia Spring`
+ - [x] 🔭 `Há um ano trabalhando como Java Developer` 🍊
+ - [x]  📖 `Estudando Java, Kotlin, Familia Spring, AWS`
  - [x] 💬 `Meu contato : rodrigoeduque@hotmail.com`
 ____
 ![Rodrigo Duque GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoeduque&show_icons=true&theme=cobalt&count_private=true)
